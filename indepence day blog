@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>India</title>
+    <link rel="stylesheet" href="index.css">
     
 </head>
 <body>
@@ -32,14 +33,16 @@
         </section> 
         
         <figure>
-           <img src='https://d3dyfaf3iutrxo.cloudfront.net/general/upload/967c2ad2aeb341ecba3edb91fe56d7e7.jpg'>
-          <figcaption>
-            Indian Flag
-          </figcaption>  
+          <div>
+            <img src="https://d3dyfaf3iutrxo.cloudfront.net/general/upload/967c2ad2aeb341ecba3edb91fe56d7e7.jpg"/>
+            <figcaption>
+              Indian Flag
+            </figcaption>
+          </div>  
         </figure>  
 
         <aside>
-          <p> India is very popular for the variety of great food it has. Some of the top food items in NYC include:</p> 
+          <p> India is very popular for the variety of great food it has. Some of the top food items in India include:</p> 
           <ol>
             <li>Palak paneer</li>
             <li>Chicken tikka masala</li>
@@ -97,16 +100,18 @@
                 </button>
                 
               </div>
-              <footer id="about">
-    <p id="name">Diya Kotadiya</p>
-    <p id="contact">diya.kotadiya@example.com</p>
-  </footer>
                
           
         </div>
       </form>
 
 
+      <footer id="about">
+        <p id="name">Posted By: Kunal</p>
+        <p id="contact">Contact information: kunal@xyz.com</p>
+      </footer>
+      
+      
       
       
 
